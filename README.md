@@ -5,3 +5,5 @@
 - para ejecutar el sistena deves oiber:
 
 - ``npm install react``
+
+- sistema de registro 
